@@ -1,48 +1,48 @@
 +-----------------------------+
-| Inizia il gioco             |
+| Start the game              |
 +-----------------------------+
              |
              v
 +-----------------------------+
-| Inizializza pygame          |
+| Initialize pygame           |
 +-----------------------------+
              |
              v
 +-----------------------------+
-| Crea i Pokémon (pokemon_1,  |
+| Create Pokémon (pokemon_1,  |
 | pokemon_2)                  |
 +-----------------------------+
              |
              v
 +-----------------------------+
-| Crea le mosse (move_1, move_2)|
+| Create moves (move_1, move_2)|
 +-----------------------------+
              |
              v
 +-----------------------------+
-| Inizializza la battaglia    |
+| Initialize battle           |
 +-----------------------------+
              |
              v
 +-----------------------------+
-| Loop principale del gioco   |
-| (gestisce eventi e aggiorna)|
+| Main game loop              |
+| (handles events and updates)|
 +-----------------------------+
              |
              v
 +-----------------------------+
-| Gestisci gli eventi         |
-| (Input dell'utente)         |
+| Handle events               |
+| (User input)                |
 +-----------------------------+
              |
              v
 +-----------------------------+
-| Crea e aggiorna l'interfaccia|
-| utente                      |
+| Create and update UI        |
 +-----------------------------+
              |
              v
 +-----------------------------+
-| Termina il gioco se chiuso   |
+| End game if closed          |
 +-----------------------------+
+
 
